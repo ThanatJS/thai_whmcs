@@ -1,7 +1,7 @@
 <?php
 /**
  * WHMCS Language File
- * English (en)
+ * thai (th)
  *
  * Please Note: These language files are overwritten during software updates
  * and therefore editing of these files directly is not advised. Instead we
@@ -23,21 +23,21 @@ if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
 $_LANG['locale'] = "th_th";
 
-$_LANG['accountinfo'] = "Account Information";
-$_LANG['accountstats'] = "Account Statistics";
-$_LANG['addfunds'] = "Add Funds";
-$_LANG['addfundsamount'] = "Amount to Add";
-$_LANG['addfundsmaximum'] = "Maximum Deposit";
-$_LANG['addfundsmaximumbalance'] = "Maximum Balance";
-$_LANG['addfundsmaximumbalanceerror'] = "Maximum Balance amount is";
-$_LANG['addfundsmaximumerror'] = "Maximum Deposit amount is";
-$_LANG['addfundsminimum'] = "Minimum Deposit";
-$_LANG['addfundsminimumerror'] = "Minimum Deposit amount is";
-$_LANG['addmore'] = "Add More";
-$_LANG['addtocart'] = "Add to Cart";
-$_LANG['affiliatesactivate'] = "Activate Affiliate Account";
-$_LANG['affiliatesamount'] = "Amount";
-$_LANG['affiliatesbalance'] = "Current Balance";
+$_LANG['accountinfo'] = "ข้อมูลบัญชีผู้ใช้";
+$_LANG['accountstats'] = "สถิติผู้ใช้";
+$_LANG['addfunds'] = "เพิ่มเงิน";
+$_LANG['addfundsamount'] = "จำนวนที่จะเพิ่ม";
+$_LANG['addfundsmaximum'] = "จำนวนเงินสูงสุดในการฝาก";
+$_LANG['addfundsmaximumbalance'] = "จำนวนเงินสูงสุดในบัญชี";
+$_LANG['addfundsmaximumbalanceerror'] = "จำนวนเงินสูงสุดในบัญชี คือ";
+$_LANG['addfundsmaximumerror'] = "จำนวนเงินสูงสุดในการฝาก คือ";
+$_LANG['addfundsminimum'] = "จำนวนต่ำสุดในการฝาก";
+$_LANG['addfundsminimumerror'] = "จำนวนต่ำสุดในการฝาก คือ";
+$_LANG['addmore'] = "เพิ่ม";
+$_LANG['addtocart'] = "เพิ่มลงตะกร้า";
+$_LANG['affiliatesactivate'] = "อนุมัติบัญชีพันธมิตร";
+$_LANG['affiliatesamount'] = "จำนวน";
+$_LANG['affiliatesbalance'] = "จำนวนเงินปัจจุบัน";
 $_LANG['affiliatesbullet1'] = "Receive an initial bonus deposit in your affiliate account of";
 $_LANG['affiliatesbullet2'] = "of every payment each customer you refer to us makes for the entire duration of their hosting account";
 $_LANG['affiliatescommission'] = "Commission";
@@ -3080,4 +3080,4 @@ $_LANG['paypalEmailAddress'] = "PayPal Email Address";
 $_LANG['fromJust'] = "from just";
 $_LANG['remoteTransError'] = "Remote Transaction Failure. Please Contact Support.";
 
-////////// End of english language file.  Do not place any translation strings below this line!
+////////// End of thai language file.  Do not place any translation strings below this line!
