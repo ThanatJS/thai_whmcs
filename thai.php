@@ -205,7 +205,7 @@ $_LANG['clientareanavchangecc'] = "Change Credit Card Details";
 $_LANG['clientareanavchangepw'] = "Change Password";
 $_LANG['clientareanavdetails'] = "My Details";
 $_LANG['clientareanavdomains'] = "My Domains";
-$_LANG['clientareanavhome'] = "Home";
+$_LANG['clientareanavhome'] = "หน้าแรก";
 $_LANG['clientareanavlogout'] = "Logout";
 $_LANG['clientareanavorder'] = "Order Additional Items";
 $_LANG['clientareanavsecurityquestions'] = "Change Security Question";
@@ -1631,13 +1631,13 @@ $_LANG['transferinadomain'] = "Transfer in a Domain";
 
 $_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
 
-$_LANG['homebegin'] = "Begin the search for your perfect domain name...";
-$_LANG['howcanwehelp'] = "How can we help today?";
-$_LANG['exampledomain'] = "eg. example.com";
+$_LANG['homebegin'] = "ค้นหาโดเมน";
+$_LANG['howcanwehelp'] = "ต้องการทำอะไร";
+$_LANG['exampledomain'] = "ตัวอย่าง example.com";
 $_LANG['buyadomain'] = "จดโดเมน";
 $_LANG['orderhosting'] = "ซื้อโฮสติ้ง";
-$_LANG['makepayment'] = "Make Payment";
-$_LANG['getsupport'] = "Get Support";
+$_LANG['makepayment'] = "ชำระเงิน";
+$_LANG['getsupport'] = "แจ้งปัญหา";
 
 $_LANG['news'] = "News";
 $_LANG['allthelatest'] = "All the latest from";
@@ -2156,8 +2156,8 @@ $_LANG['pricing']['renewal'] = "Renewal";
 $_LANG['pricing']['selectExtCategory'] = "Please choose a category from above.";
 $_LANG['pricing']['noExtensionsDefined'] = "No extensions available";
 
-$_LANG['navStore'] = "Store";
-$_LANG['navBrowseProductsServices'] = "Browse All";
+$_LANG['navStore'] = "สินค้า";
+$_LANG['navBrowseProductsServices'] = "แสดงสินค้าทั้งหมด";
 
 $_LANG['navWebsiteSecurity'] = "Website & Security";
 $_LANG['navMarketConnectService']['symantec'] = "SSL Certificates";
