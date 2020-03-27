@@ -1070,8 +1070,8 @@ $_LANG['cartnameserverchoicedefault'] = "Use default nameservers for our hosting
 $_LANG['cartnameserverchoicecustom'] = "Use custom nameservers";
 $_LANG['cartfollowingaddonsavailable'] = "The following addons are available for your active products & services.";
 $_LANG['cartregisterdomainchoice'] = "จดโมเมนใหม่";
-$_LANG['carttransferdomainchoice'] = "Transfer your domain from another registrar";
-$_LANG['cartexistingdomainchoice'] = "I will use my existing domain and update my nameservers";
+$_LANG['carttransferdomainchoice'] = "ย้ายโดเมนมากที่เรา";
+$_LANG['cartexistingdomainchoice'] = "ใช้โดเมนที่มีอยู่และอัฟเดทเนมเซิฟเวอร์";
 $_LANG['cartsubdomainchoice'] = "Use a subdomain from %s";
 $_LANG['carterrordomainconfigskipped'] = "You must go back and complete the required domain configuration fields above";
 $_LANG['cartproductchooseoptions'] = "Choose Options";
@@ -1302,7 +1302,7 @@ $_LANG['addfundsnonrefundable'] = "* All deposits are non-refundable.";
 
 $_LANG['creditcardexpirydateinvalid'] = "The expiry date must be entered in the format MM/YY and must not be in the past";
 
-$_LANG['domaincheckerchoosedomain'] = "Choose a Domain...";
+$_LANG['domaincheckerchoosedomain'] = "เลือกโดเมน";
 $_LANG['domaincheckerchecknewdomain'] = "Check Availability of a New Domain";
 $_LANG['domaincheckerdomainexample'] = " eg. example.com";
 $_LANG['domaincheckerhostingonly'] = "Order Hosting Only";
